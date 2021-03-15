@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Dima Chernomaz
+=======
+Yelizov Gleb
+Kostin Valentyne
+
+>>>>>>> 997986bbb805ad8ee9a3f6190683c80adb9a26a2
